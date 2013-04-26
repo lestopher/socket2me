@@ -18,5 +18,3 @@ _yardoc
 doc/
 
 .DS_Store
-
-example/assets/vendor/*
